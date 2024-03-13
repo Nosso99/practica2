@@ -1,0 +1,81 @@
+.cotenedor{
+    background-color: red;
+    padding: 10px;  
+    justify-content:space-between; 
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap ;
+
+}
+.extrmo{
+    background-color: aqua;
+    margin: 5px;
+    width: 50px;
+    height: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 5;
+    flex-wrap: wrap;
+    justify-content:space-between; 
+
+}
+.centro{
+    background-color: blue;
+    margin: 5px;
+    width: 10px;
+    height: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    flex-grow: 1;
+    flex-wrap: wrap;
+    flex-direction:column;
+    justify-content:space-between; 
+}
+.caja{
+    background-color: red;
+    margin: 5px;
+    width: 50px;
+    height: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    flex-grow: 1;
+    flex-direction: row;
+}
+.caja1{
+    background-color: greenyellow;
+    margin: 5px;
+    width: 50px;
+    height: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+.caja2{
+    background-color: greenyellow;
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+.caja3{
+    background-color: yellow;
+    margin: 5px;
+    width: 100px;
+    height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+}
+.caja4{
+    background-color: yellow;
+    margin: 5px;
+    width: 30px;
+    height: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 1;
+
+
+}
